@@ -14,6 +14,9 @@ Jsem na začátku své cesty v IT – s velkou motivací učit se, zkoušet nov�
 - Python (základy, skriptování)
 - Git, GitHub (základní úroveň)
 
+📚 Dřívější zkušenosti:
+- Během VŠ jsem pracoval s databázemi a SQL – rád bych tyto znalosti znovu oživil.
+
 🚀 Projekty:
 - [Textovy_analyzator](odkaz) – stručný popis, co projekt dělá
 
