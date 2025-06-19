@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ahoj! 👋
 
-<!--
-**Adam777-code-maker/Adam777-code-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jsem na začátku své cesty v IT – s velkou motivací učit se, zkoušet nové věci a růst. Zajímá mě vývoj softwaru a aktuálně se věnuji Pythonu. Testování vnímám jako ideální startovní bod, protože rozvíjí pečlivost, logické myšlení a technický přehled.
 
-Here are some ideas to get you started:
+🔍 Postupně objevuji, která cesta v IT mi sedne nejvíce – testování, vývoj backendu, nebo automatizace. Důležité pro mě je učit se praxí a posouvat se.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Aktuálně:
+- Absolvoval jsem základní kurz Pythonu (ENGETO, 2024)
+- Právě opakuji a rozšiřuji Python - včetně OOP (BeeIT, 2025)
+- Na podzim mě čeká kurz automatizovaného testování v Pythonu (BeeIT)
+- Mám základní znalost Gitu a GitHubu
+
+💻 Technologie:
+- Python (základy, skriptování)
+- Git, GitHub (základní úroveň)
+
+🚀 Projekty:
+- [Textovy_analyzator](odkaz) – stručný popis, co projekt dělá
+
+🎯 Cíl:
+Najít první příležitost v IT, ideálně jako juniorní tester nebo vývojář, ale jsem otevřený i jiným oblastem. Věřím v postupné učení a poctivou práci. Ocením každou šanci přispět a učit se v týmu.
+
+Díky, že jste tu 🙌
