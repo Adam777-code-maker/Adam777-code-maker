@@ -18,7 +18,7 @@ Jsem na začátku své cesty v IT – s velkou motivací učit se, zkoušet nov�
 - Během VŠ jsem pracoval s databázemi a SQL – rád bych tyto znalosti znovu oživil.
 
 🚀 Projekty:
-- Textovy_analyzator (https://github.com/Adam777-code-maker/text_analyzer/tree/main) – analyzátor textu, který dává informace o počtu slov v textu, ...
+- Textovy_analyzator (https://github.com/Adam777-code-maker/text_analyzer/tree/main) – analyzátor textu, který dává informace o počtu slov v textu a další.
 
 🎯 Cíl:
 Najít první příležitost v IT, ideálně jako juniorní tester nebo vývojář, ale jsem otevřený i jiným oblastem. Věřím v postupné učení a poctivou práci. Ocením každou šanci přispět a učit se v týmu.
